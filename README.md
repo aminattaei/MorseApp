@@ -23,3 +23,4 @@ pip install pyperclip
 ```
 
 ## Built with ❤️ by Amin Attaei
+
