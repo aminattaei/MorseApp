@@ -20,5 +20,6 @@ This project is a graphical tool that lets you convert text into Morse code or d
 To install the required library, run:
 ```bash
 pip install pyperclip
+'''
 
 Built with ❤️ by Amin Attaei
